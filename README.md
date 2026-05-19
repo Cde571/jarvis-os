@@ -1,3 +1,7 @@
+![Uploading image.png…]()
+
+
+
 # JARVIS Air Interface V3 — Holographic UI
 
 Interfaz holográfica de PC controlada por gestos con **transparencia real**, 
